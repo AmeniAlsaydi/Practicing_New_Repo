@@ -13,3 +13,5 @@
     git remote add origin repo_url
 1. Set remote as upstream 
     git push --set-upstream origin master
+
+[Git Cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) 
